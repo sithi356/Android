@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91505422737",
+    "project_id": "swadeshibazar-7db41",
+    "storage_bucket": "swadeshibazar-7db41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91505422737:android:a84428cd5365bad7556a30",
+        "android_client_info": {
+          "package_name": "com.example.swadeshibazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIqUpzKjSOs2BYO-LZK58_FWRt-YTSwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91505422737:android:17f192fc9c9ac8a8556a30",
+        "android_client_info": {
+          "package_name": "schemas.android.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIqUpzKjSOs2BYO-LZK58_FWRt-YTSwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
